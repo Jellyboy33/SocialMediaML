@@ -1,5 +1,5 @@
 import sys
-sys.path.append('./utils')
+sys.path.append('./images-utils')
 from process_csv import process_csv
 from process_test_csv import process_test_csv
 
